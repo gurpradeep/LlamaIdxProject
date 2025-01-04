@@ -1,0 +1,1 @@
+#This is to understand LlamaIdx to build Agentic apps
